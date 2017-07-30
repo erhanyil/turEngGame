@@ -1,0 +1,26 @@
+<ion-view view-title="Games">
+  <ion-content>
+    <div class="card text-center">
+    <div class="item item-divider">
+        Last Score : {{score}}
+    </div>
+    <div class="item item-text-wrap">
+        <div class="row">
+            <button class="button button-block button-assertive" ng-click='hardGame()'>Hard Mode </button>
+        </div>
+        <div class="row">
+            <button class="button button-block button-positive" ng-click='mediumGame()'> Medium Mode </button>
+        </div>
+        <div class="row">
+            <button class="button button-block button-balanced" ng-click='easyGame()'> Easy Mode </button>
+        </div>
+
+      <div class="item item-divider">
+        <div class="button-bar">
+          <a class="button button-positive" ng-click="exit()">Exit</a>
+        </div>
+      </div>
+    </div>    
+</div>
+  </ion-content>
+</ion-view>

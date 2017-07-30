@@ -1,0 +1,33 @@
+<ion-view view-title="<i class='icon ion-ios-timer'>{{time}}</i>">
+<ion-nav-bar class="bar-stable nav-title-slide-ios7">
+    <ion-nav-back-button class="button-icon icon ion-ios7-arrow-back" ng-click="leaveGame('game')">
+        Exit Game
+    </ion-nav-back-button>
+    <ion-nav-buttons side="right" ng-disabled="true">
+        <button class="button button-clear button-positive">
+          <i class="icon ion-ios-heart" style="color:red"></i>
+            + {{attempt}}
+        </button>
+    </ion-nav-buttons>
+</ion-nav-bar>
+  <ion-content>
+    <div class="card" style="margin-top: 15%;">
+      <div class="item item-divider">
+        <h4 style="text-align:center;font-size: 40px;">Question {{questionCount}}</h4>
+      </div>
+      <div class="item item-text-wrap">
+      <h3 id='timer' style="text-align:center">{{question | uppercase}}</h3>
+      </div>
+      <div class="item item-divider">
+        <div class="button-bar" ng-repeat="ans in options  |orderBy:random">
+          <a class="button {{ans.color}}" ng-click="checkAnswer(ans.answer)">{{ans.answer}}</a>
+        </div>
+      </div>
+      <div class="item item-divider">
+        <div class="button-bar">
+          <a class="button button-positive" ng-disabled="passDis" ng-click="passGame()">Pass (+{{pass}})</a>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

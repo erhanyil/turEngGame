@@ -1,0 +1,660 @@
+{
+    "quiz": {
+        "hard": [
+             {
+                "question": "Amuse?",
+                "options": [
+                    "eğlendirmek",
+                    "eğlence",
+                    "eğlenmek",
+                    "festival"
+                ],
+                "answer": "eğlendirmek"
+            },
+            {
+                "question": "Balance?",
+                "options": [
+                    "orta",
+                    "ayar",
+                    "denge",
+                    "dengelemek"
+                ],
+                "answer": "dengelemek"
+            },
+            {
+                "question": "Chase?",
+                "options": [
+                    "kaçamak",
+                    "kaçırmak",
+                    "kovalamak",
+                    "kaçmak"
+                ],
+                "answer": "kovalamak"
+            },
+            {
+                "question": "Describe?",
+                "options": [
+                    "betimleme",
+                    "tasvir",
+                    "tanım",
+                    "tanıtım"
+                ],
+                "answer": "tanım"
+            },
+            {
+                "question": "Interrupt?",
+                "options": [
+                    "kesin",
+                    "yarım",
+                    "bölmek",
+                    "yarıda kesmek"
+                ],
+                "answer": "yarıda kesmek"
+            },
+            {
+                "question": "Prevent?",
+                "options": [
+                    "karşılamak",
+                    "karşı gelmek",
+                    "önüne geçmek",
+                    "önlemek"
+                ],
+                "answer": "önlemek"
+            }
+        ],
+        "medium": [
+             {
+                "question": "medium_Amuse?",
+                "options": [
+                    "eğlendirmek",
+                    "eğlence",
+                    "eğlenmek",
+                    "festival"
+                ],
+                "answer": "eğlendirmek"
+            },
+            {
+                "question": "Balance?",
+                "options": [
+                    "orta",
+                    "ayar",
+                    "denge",
+                    "dengelemek"
+                ],
+                "answer": "dengelemek"
+            },
+            {
+                "question": "Chase?",
+                "options": [
+                    "kaçamak",
+                    "kaçırmak",
+                    "kovalamak",
+                    "kaçmak"
+                ],
+                "answer": "kovalamak"
+            },
+            {
+                "question": "Describe?",
+                "options": [
+                    "betimleme",
+                    "tasvir",
+                    "tanım",
+                    "tanıtım"
+                ],
+                "answer": "tanım"
+            },
+            {
+                "question": "Interrupt?",
+                "options": [
+                    "kesin",
+                    "yarım",
+                    "bölmek",
+                    "yarıda kesmek"
+                ],
+                "answer": "yarıda kesmek"
+            },
+            {
+                "question": "Prevent?",
+                "options": [
+                    "karşılamak",
+                    "karşı gelmek",
+                    "önüne geçmek",
+                    "önlemek"
+                ],
+                "answer": "önlemek"
+            }
+        ],
+        "easy": [ {
+                "question": "Sister?",
+                "options": [
+                    "kız kardeş",
+                    "baba",
+                    "amca",
+                    "teyze"
+                ],
+                "answer": "kız kardeş"
+            },
+
+ {
+                "question": "glass?",
+                "options": [
+                    "bardak",
+                    "vazo",
+                    "pencere",
+                    "gözlük"
+                ],
+                "answer": "bardak"
+            },
+ {
+                "question": "touch?",
+                "options": [
+                    "dokunmak",
+                    "taç",
+                    "kanape",
+                    "acıkmak"
+                ],
+                "answer": "dokunmak"
+            },
+ {
+                "question": "How?",
+                "options": [
+                    "Nasıl",
+                    "Neden",
+                    "Niçin",
+                    "Niye"
+                ],
+                "answer": "Nasıl"
+            },
+ {
+                "question": "october?",
+                "options": [
+                    "ekim",
+                    " ocak",
+                    "kasım",
+                    "mayıs"
+                ],
+                "answer": "ekim"
+            },
+ {
+                "question": "autumn?",
+                "options": [
+                    " kış",
+                    "sonbahar",
+                    " yaz",
+                    "ilkbahar"
+                ],
+                "answer": "ilkbahar"
+            },
+
+ {
+                "question": "thursday?",
+                "options": [
+                    "salı",
+                    " perşembe",
+                    "çarşamba",
+                    "cuma"
+                ],
+                "answer": "perşembe"
+            },
+
+ {
+                "question": "necklace?",
+                "options": [
+                    " kolye",
+                    "eşarp",
+                    "şort",
+                    "terlik"
+                ],
+                "answer": " kolye"
+            },
+
+ {
+                "question": "dress?",
+                "options": [
+                    "elbise",
+                    "eldiven",
+                    "bot",
+                    "gömlek"
+                ],
+                "answer": "elbise"
+            },
+
+ {
+                "question": "sheep?",
+                "options": [
+                    " koyun",
+                    "kuzu",
+                    "öküz",
+                    " tavşan"
+                ],
+                "answer": "koyun"
+            },
+
+ {
+                "question": "duck?",
+                "options": [
+                    "ördek",
+                    "kaz",
+                    "keçi",
+                    "kaplumbağa"
+                ],
+                "answer": "ördek"
+            },
+{
+                "question": "horse?",
+                "options": [
+                    "at",
+                    "eşek",
+                    "inek",
+                    "boğa"
+                ],
+                "answer": "at"
+            },
+{
+                "question": "lizard?",
+                "options": [
+                    "kertenkele",
+                    "kaplumbağa",
+                    "su yılanı",
+                    "timsah"
+                ],
+                "answer": "kertenkele"
+            },
+{
+                "question": "bear?",
+                "options": [
+                    "bira",
+                    "panda",
+                    "ayı",
+                    "sakal"
+                ],
+                "answer": "ayı"
+            },
+{
+                "question": "wolf?",
+                "options": [
+                    "kurt",
+                    "köpek",
+                    "baykuş",
+                    "fil"
+                ],
+                "answer": "kurt"
+            },
+{
+                "question": "scorpion?",
+                "options": [
+                    "tuna balığı",
+                    "akrep",
+                    "yılan",
+                    "timsah"
+                ],
+                "answer": "akrep"
+            },
+{
+                "question": "crocodile?",
+                "options": [
+                    "timsah",
+                    "papağan",
+                    "balina",
+                    "ahtapot"
+                ],
+                "answer": "timsah"
+            },
+{
+                "question": "dolphin?",
+                "options": [
+                    "ahtapot",
+                    "balina",
+                    "kartal",
+                    "yunus"
+                ],
+                "answer": "yunus"
+            },
+{
+                "question": "builder?",
+                "options": [
+                    "inşaatçı",
+                    "bahçıvan",
+                    "marangoz",
+                    "kapıcı"
+                ],
+                "answer": "inşaatçı"
+            },
+{
+                "question": "artist?",
+                "options": [
+                    "ressam",
+                    "aktris",
+                    "dansçı",
+                    "aktör"
+                ],
+                "answer": "ressam"
+            },
+{
+                "question": "nurse?",
+                "options": [
+                    "hemşire",
+                    "itfaiyeci",
+                    "dişçi",
+                    "temizlikçi"
+                ],
+                "answer": "hemşire"
+            },
+{
+                "question": "businessman?",
+                "options": [
+                    "iş adamı",
+                    "avukat",
+                    "otobüs şöförü",
+                    "politikacı"
+                ],
+                "answer": "iş adamı"
+            },
+{
+                "question": "sailor?",
+                "options": [
+                    "denizci",
+                    "astronot",
+                    "asker",
+                    "satış görevlisi"
+                ],
+                "answer": "denizci"
+            },
+
+
+
+{
+                "question": "lawyer?",
+                "options": [
+                    "avukat",
+                    "mühendis",
+                    "pilot",
+                    "tesisatçı"
+                ],
+                "answer": "avukat"
+            },
+
+
+
+{
+                "question": "lunch?",
+                "options": [
+                    "kahvaltı",
+                    "öğle yemeği",
+                    "akşam yemeği",
+                    "gece acıkması"
+                ],
+                "answer": "öğle yemeği"
+            },
+
+
+
+{
+                "question": "sand?",
+                "options": [
+                    "sandal",
+                    "kum",
+                    "tuz",
+                    "kaya"
+                ],
+                "answer": "kum"
+            },
+
+
+
+{
+                "question": "natural?",
+                "options": [
+                    "doğal",
+                    "hızlı",
+                    "pastorize",
+                    "erken"
+                ],
+                "answer": "doğal"
+            },
+
+
+
+{
+                "question": "wrong?",
+                "options": [
+                    "yanlış",
+                    "genç",
+                    "garip",
+                    "özel"
+                ],
+                "answer": "yanlış"
+            },
+
+
+
+{
+                "question": "warm?",
+                "options": [
+                    "ılık",
+                    "solucan",
+                    "bulunmak",
+                    "koyu"
+                ],
+                "answer": "ılık"
+            },
+{
+                "question": "kind?",
+                "options": [
+                    "çocuk",
+                    "nazik",
+                    "gevşek",
+                    "önemli"
+                ],
+                "answer": "nazik"
+            },
+{
+                "question": "regular?",
+                "options": [
+                    "düzenli",
+                    "sessiz",
+                    "mümkün",
+                    "yasal"
+                ],
+                "answer": "düzenli"
+            },
+
+{
+                "question": "strange?",
+                "options": [
+                    "garip",
+                    "kalın",
+                    "güçlü",
+                    "sağlıklı"
+                ],
+                "answer": "garip"
+            },
+{
+                "question": "broken?",
+                "options": [
+                    "parça",
+                    "kırık",
+                    "uyanık",
+                    "kızgın"
+                ],
+                "answer": "kırık"
+            },
+{
+                "question": "dark?",
+                "options": [
+                    "karanlık",
+                    "kötü",
+                    "ölü",
+                    "farklı"
+                ],
+                "answer": "karanlık"
+            },
+
+
+
+{
+                "question": "flat?",
+                "options": [
+                    "düz",
+                    "yüksek ses",
+                    "kuru",
+                    "temiz"
+                ],
+                "answer": "düz"
+            },
+{
+                "question": "ship?",
+                "options": [
+                    "rezarvasyon",
+                    "gemi",
+                    "çabuk",
+                    "kuzu"
+                ],
+                "answer": "gemi"
+            },
+
+{
+                "question": "street?",
+                "options": [
+                    "düz",
+                    "sokak",
+                    "cadde",
+                    "şerit"
+                ],
+                "answer": "sokak"
+            },
+{
+                "question": "boat?",
+                "options": [
+                    "tekne",
+                    "bot",
+                    "gemi",
+                    "yelkenli"
+                ],
+                "answer": "tekne"
+            },
+{
+                "question": "badly?",
+                "options": [
+                    "fena halde",
+                    "yaklaşı",
+                    "sabırla",
+                    "kötüce"
+                ],
+                "answer": "fena halde"
+            },
+{
+                "question": "differently?",
+                "options": [
+                    "farklı bir şekilde",
+                    "akıcı bir biçimde",
+                    "çoğunlukla",
+                    "kesinlikle"
+                ],
+                "answer": "farklı bir şekilde"
+            },
+{
+                "question": "hope?",
+                "options": [
+                    "umut",
+                    "barış",
+                    "huzur",
+                    "mutluluk"
+                ],
+                "answer": "umut"
+            },
+
+
+
+{
+                "question": "light?",
+                "options": [
+                    "ışık",
+                    "fener",
+                    "çakmak",
+                    "dürbün"
+                ],
+                "answer": "ışık"
+            },
+{
+                "question": "gun?",
+                "options": [
+                    "silah",
+                    "mermi",
+                    "ateş etmek",
+                    "tetik"
+                ],
+                "answer": "silah"
+            },
+{
+                "question": "wallet?",
+                "options": [
+                    "vestiyer",
+                    "cüzdan",
+                    "duvar boyası",
+                    "led şeridi"
+                ],
+                "answer": "cüzdan"
+            },
+{
+                "question": "nervous?",
+                "options": [
+                    "gergin",
+                    "cesaret",
+                    "nergis",
+                    "sinirli"
+                ],
+                "answer": "gergin"
+            },
+{
+                "question": "gloven?",
+                "options": [
+                    "eldiven",
+                    "pipet",
+                    "çatal",
+                    "yüzük"
+                ],
+                "answer": "eldiven"
+            },
+
+
+
+{
+                "question": "key?",
+                "options": [
+                    "anahtar",
+                    "saat",
+                    "çevir",
+                    "takım"
+                ],
+                "answer": "anahtar"
+            },
+
+
+
+{
+                "question": "shyly?",
+                "options": [
+                    "ahmakça",
+                    "muhakkak",
+                    "ürkekçe",
+                    "akıcı"
+                ],
+                "answer": "ürkekçe"
+            },
+
+
+
+{
+                "question": "window?",
+                "options": [
+                    "teras",
+                    "pencere",
+                    "masa",
+                    "cam"
+                ],
+                "answer": "pencere"
+            }
+        ]
+    }
+}

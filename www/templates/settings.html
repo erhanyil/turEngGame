@@ -1,0 +1,16 @@
+<ion-view view-title="Setting">
+  <ion-content>
+    <table>
+      <thead>
+        <th>Username</th>
+        <th>Time</th>
+        <th>Score</th>
+      </thead>
+      <tbody ng-repeat="person in allSessions">
+        <th>{{person.username}}</th>
+        <th>{{person.time}}</th>
+        <th>{{person.score}}</th>
+      </tbody>
+    </table>
+  </ion-content>
+</ion-view>
